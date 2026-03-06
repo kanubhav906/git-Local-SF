@@ -1,1 +1,1 @@
-# This is our test local repository
+# This is our local repository
